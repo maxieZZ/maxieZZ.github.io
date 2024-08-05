@@ -14,7 +14,7 @@ As the only major controlled drug with increasing prescription rates in 2023, th
 
 As the leading cause of death and disability in the U.S, the continued rise of chronic conditions like cancer and irritable bowel syndrome (IBD) continues to prompt preventative efforts like early diagnosis and/or identification of prominent risk factors involved in disease progression. Since many of these diseases are partially characterized by modifications in composition and function of gut microbial species, understanding the link between our microbiome and disease onset may be helpful in informing early diagnosis and targeted treatment approaches. Due to the high dimensionality and complexity of data from the human gut microbiome, this investigation sought to determine the feasibility of deep learning approaches to predict disease states given microbial abundance data.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/microbiota_viz.png?raw=true"/>
 
 ---
 ### An Investigation into the Security and Privacy of Bitcoin
