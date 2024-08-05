@@ -35,5 +35,5 @@ In the past, online transactions have relied heavily on trusted third party syst
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<p style="font-size:11px"></p>
+<!-- -->
