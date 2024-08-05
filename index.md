@@ -8,6 +8,8 @@ As the only major controlled drug with increasing prescription rates in 2023, th
 
 <img src="images/adderall_viz3.png?raw=true"/>
 
+[View code on Colab]() 
+
 ---
 
 ### Feed-Forward Neural Networks in Gut Microbial Abundance Data for Disease Classification ~ May, 2024
@@ -25,15 +27,7 @@ In the past, online transactions have relied heavily on trusted third party syst
 
 <img src="images/bitcoin_viz.png?raw=true"/>
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[View code on Colab]() 
 
 ---
 
