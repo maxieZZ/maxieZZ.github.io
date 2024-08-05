@@ -8,6 +8,8 @@ As the only major controlled drug with increasing prescription rates in 2023, th
 
 <img src="images/adderall_viz3.png?raw=true"/>
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+
 [View code on Colab]() 
 
 ---
