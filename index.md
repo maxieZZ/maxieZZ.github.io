@@ -6,7 +6,7 @@
 
 As the only major controlled drug with increasing prescription rates in 2023, the rising popularity of stimulants like Adderall continues to prompt debates over appropriate usage and long-term effects. To understand this impact from the perspective of users, posts from "r/adderall", a subreddit dedicated to the discussion of ADHD drugs for recreational and medical use, were extracted. Specifically, 6,417 posts along with 13 associated features (including sentiment and user-derived tags) were analyzed. Ultimately, this framework helped to identify unmet needs of stimulant users, including a desire to learn more about holistic ADHD symptom management techniques rather than relying solely on pharmacological treatment.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/adderall_viz.png?raw=true"/>
 
 ---
 
