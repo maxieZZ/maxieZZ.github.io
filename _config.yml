@@ -3,7 +3,7 @@ logo: "/images/headshot4.png?raw=true" # photo here
 description: > # text below (remove <br> elements for no line breaks)
   Data Scientist & Junior Developer 
   <br><br>
-  <a href="linkedin.com/in/max-grice-15885b191">View My LinkedIn Profile</a> 
+  <a href="www.linkedin.com/in/max-grice-15885b191">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
