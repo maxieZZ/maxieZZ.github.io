@@ -10,7 +10,7 @@ As the only major controlled drug with increasing prescription rates in 2023, th
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Reddit-white?logo=Reddit)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
-[View code on Colab]() 
+[View code on GitHub](https://github.com/maxieZZ/NER_RedditPosts) 
 
 ---
 
