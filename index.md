@@ -29,7 +29,7 @@ In the past, online transactions have relied heavily on trusted third party syst
 
 <img src="images/bitcoin_viz.png?raw=true"/>
 
-[View code on Colab]() 
+[View code on GitHub](https://github.com/maxieZZ/IntroductionToBitcoin) 
 
 ---
 
